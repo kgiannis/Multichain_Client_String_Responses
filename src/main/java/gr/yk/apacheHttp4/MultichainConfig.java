@@ -27,8 +27,10 @@ public class MultichainConfig {
 	static final String HOST = "10.211.146.179";
 	static final int PORT = 4386;
 	
-	static final String USERNAME = "multichainrpc";//"<Your username here, e.g: multichainrpc>";
-	static final String PASSWORD = "B35oscPb6bcN7R3kM1PUVFsCZnB82bFHsuiA1UM3BTgJ";//"<Your password here>";
+	// Your username here, e.g: multichainrpc
+	static final String USERNAME = "<Your username here>"; 
+	// Your password here, e.g: B35oscPb6bcN7R3kM1PUVFsCZnB82bFHsuiA1UM3BTgJ
+	static final String PASSWORD = "<Your password here>";
 	
 	static final String CHAIN_NAME = "chain1";
 	
