@@ -7,7 +7,7 @@ All responses from chain are comming as String.
 
 # Dependencies
 Necessary dependencies are Apache Http Client and Google GSON library.
-```pom
+```maven_pom
 <!-- https://mvnrepository.com/artifact/org.apache.httpcomponents/httpclient -->
 <dependency>
 	<groupId>org.apache.httpcomponents</groupId>
