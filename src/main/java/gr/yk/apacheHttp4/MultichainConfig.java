@@ -31,8 +31,8 @@ public class MultichainConfig {
 	static final String USERNAME = "<Your username here>"; 
 	// Your password here, e.g: B35oscPb6bcN7R3kM1PUVFsCZnB82bFHsuiA1UM3BTgJ
 	static final String PASSWORD = "<Your password here>";
-	
-	static final String CHAIN_NAME = "chain1";
+	// The name of the chain here, e.g: chain1
+	static final String CHAIN_NAME = "<Name of the chain here>";
 	
 	/**
 	 * Initialize Basic Credentials
